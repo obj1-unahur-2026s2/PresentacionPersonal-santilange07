@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
+- Mi nombre es: Santiago Lange
 - Vivo en
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Este no es mi primer contacto con github
+- soy hincha de river
